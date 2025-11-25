@@ -1,0 +1,501 @@
+opportunity_id,owner,region,deal_value,stage,days_in_stage,probability,created_date,expected_close_date
+OPP-1000,D. Johnson,West,233368.98,Prospecting,43,0.4,2025-06-21,2025-08-08
+OPP-1001,E. Rivera,Northeast,143457.63,Prospecting,1,0.31,2025-05-29,2025-09-06
+OPP-1002,C. Patel,International,175679.45,Proposal,45,0.52,2025-01-28,2025-08-02
+OPP-1003,E. Rivera,Midwest,231012.35,Negotiation,51,0.82,2025-02-23,2025-07-13
+OPP-1004,E. Rivera,Midwest,178273.47,Prospecting,24,0.56,2025-03-06,2025-09-22
+OPP-1005,B. Chen,Northeast,42372.07,Closed Lost,35,0.45,2025-04-10,2025-08-23
+OPP-1006,C. Patel,West,146190.65,Prospecting,24,0.44,2025-01-21,2025-07-07
+OPP-1007,C. Patel,West,153645.19,Proposal,17,0.19,2025-01-13,2025-09-17
+OPP-1008,C. Patel,International,108912.01,Negotiation,5,0.68,2025-02-26,2025-09-25
+OPP-1009,E. Rivera,Northeast,185428.84,Closed Won,20,0.48,2025-02-18,2025-07-14
+OPP-1010,D. Johnson,Midwest,233919.92,Negotiation,21,0.46,2025-04-28,2025-09-25
+OPP-1011,C. Patel,West,231764.29,Closed Won,40,0.95,2025-02-23,2025-07-19
+OPP-1012,E. Rivera,Northeast,115455.65,Qualified,58,0.56,2025-05-18,2025-08-23
+OPP-1013,B. Chen,West,32743.32,Closed Won,31,0.35,2025-02-22,2025-07-20
+OPP-1014,D. Johnson,West,246286.09,Prospecting,46,0.41,2025-02-13,2025-07-29
+OPP-1015,B. Chen,Midwest,210530.03,Closed Won,36,0.73,2025-02-16,2025-07-24
+OPP-1016,D. Johnson,Southeast,35542.36,Proposal,11,0.52,2025-02-22,2025-09-20
+OPP-1017,E. Rivera,International,230606.26,Closed Won,52,0.21,2025-03-15,2025-09-01
+OPP-1018,A. Smith,International,218124.61,Proposal,15,0.68,2025-02-15,2025-09-12
+OPP-1019,D. Johnson,Midwest,132115.32,Proposal,19,0.37,2025-01-13,2025-08-26
+OPP-1020,B. Chen,West,149862.48,Proposal,7,0.87,2025-06-14,2025-07-08
+OPP-1021,E. Rivera,Northeast,102755.66,Negotiation,51,0.72,2025-04-12,2025-09-28
+OPP-1022,D. Johnson,West,18416.6,Prospecting,28,0.41,2025-01-24,2025-08-31
+OPP-1023,A. Smith,Midwest,87123.32,Prospecting,51,0.76,2025-01-02,2025-07-29
+OPP-1024,A. Smith,International,201699.09,Prospecting,43,0.51,2025-03-22,2025-09-12
+OPP-1025,C. Patel,West,6134.85,Prospecting,58,0.67,2025-04-10,2025-07-17
+OPP-1026,C. Patel,International,86707.3,Closed Won,5,0.6,2025-05-22,2025-09-04
+OPP-1027,B. Chen,Northeast,102551.33,Prospecting,5,0.33,2025-05-18,2025-07-06
+OPP-1028,D. Johnson,International,136661.92,Closed Lost,30,0.37,2025-06-12,2025-08-27
+OPP-1029,D. Johnson,International,230364.63,Qualified,54,0.71,2025-06-02,2025-09-07
+OPP-1030,C. Patel,Southeast,89854.77,Prospecting,32,0.43,2025-05-11,2025-07-28
+OPP-1031,D. Johnson,Southeast,90003.53,Negotiation,8,0.42,2025-04-21,2025-08-31
+OPP-1032,D. Johnson,Southeast,185687.81,Negotiation,10,0.31,2025-04-12,2025-08-10
+OPP-1033,A. Smith,International,115793.4,Proposal,38,0.58,2025-01-17,2025-09-07
+OPP-1034,C. Patel,Midwest,60028.18,Proposal,47,0.91,2025-01-12,2025-09-20
+OPP-1035,E. Rivera,International,115847.68,Negotiation,32,0.29,2025-04-26,2025-09-28
+OPP-1036,C. Patel,Midwest,39509.97,Prospecting,48,0.5,2025-01-24,2025-09-22
+OPP-1037,E. Rivera,Midwest,48214.81,Closed Lost,28,0.78,2025-01-29,2025-08-10
+OPP-1038,A. Smith,Southeast,127100.1,Closed Lost,17,0.48,2025-06-20,2025-08-18
+OPP-1039,B. Chen,West,107636.74,Negotiation,31,0.59,2025-06-02,2025-08-18
+OPP-1040,D. Johnson,Northeast,229137.25,Prospecting,8,0.29,2025-05-02,2025-09-14
+OPP-1041,A. Smith,Southeast,93786.51,Negotiation,40,0.59,2025-03-31,2025-09-09
+OPP-1042,D. Johnson,Southeast,147244.15,Prospecting,25,0.46,2025-03-06,2025-07-03
+OPP-1043,B. Chen,West,159904.75,Prospecting,9,0.7,2025-03-25,2025-07-10
+OPP-1044,B. Chen,Northeast,8208.14,Qualified,2,0.74,2025-04-29,2025-09-27
+OPP-1045,A. Smith,International,167566.66,Proposal,15,0.95,2025-06-05,2025-08-04
+OPP-1046,B. Chen,International,48618.81,Closed Won,50,0.62,2025-01-16,2025-09-18
+OPP-1047,E. Rivera,Southeast,240462.23,Negotiation,3,0.57,2025-06-24,2025-07-02
+OPP-1048,B. Chen,Northeast,41422.37,Negotiation,49,0.54,2025-04-14,2025-07-24
+OPP-1049,D. Johnson,Southeast,106582.91,Qualified,36,0.43,2025-04-02,2025-09-12
+OPP-1050,D. Johnson,Midwest,25910.67,Qualified,4,0.57,2025-01-27,2025-08-07
+OPP-1051,D. Johnson,Southeast,249234.19,Qualified,14,0.44,2025-06-19,2025-07-22
+OPP-1052,D. Johnson,Southeast,128037.78,Closed Lost,41,0.53,2025-06-24,2025-07-26
+OPP-1053,E. Rivera,International,150869.33,Prospecting,41,0.76,2025-06-11,2025-08-12
+OPP-1054,C. Patel,International,21433.74,Closed Won,25,0.3,2025-06-14,2025-08-24
+OPP-1055,A. Smith,International,188740.32,Proposal,58,0.73,2025-05-14,2025-08-08
+OPP-1056,D. Johnson,Midwest,56426.87,Qualified,55,0.76,2025-05-15,2025-07-29
+OPP-1057,B. Chen,International,225023.3,Negotiation,50,0.48,2025-06-02,2025-07-20
+OPP-1058,D. Johnson,Northeast,55259.21,Proposal,10,0.08,2025-02-02,2025-08-10
+OPP-1059,B. Chen,West,51718.49,Closed Won,21,0.38,2025-02-24,2025-08-23
+OPP-1060,B. Chen,Northeast,13954.67,Closed Lost,36,0.76,2025-01-07,2025-07-20
+OPP-1061,D. Johnson,Northeast,120656.4,Qualified,12,0.5,2025-02-26,2025-07-19
+OPP-1062,E. Rivera,International,143386.08,Qualified,27,0.3,2025-05-06,2025-09-22
+OPP-1063,B. Chen,West,21098.62,Proposal,40,0.4,2025-01-12,2025-09-04
+OPP-1064,B. Chen,West,195004.27,Closed Lost,2,0.67,2025-01-16,2025-07-30
+OPP-1065,D. Johnson,West,116055.76,Prospecting,54,0.61,2025-02-12,2025-08-22
+OPP-1066,B. Chen,Midwest,133475.62,Proposal,13,0.45,2025-04-27,2025-08-03
+OPP-1067,B. Chen,International,112986.87,Proposal,53,0.43,2025-05-15,2025-07-22
+OPP-1068,D. Johnson,West,103186.95,Negotiation,32,0.42,2025-04-21,2025-09-05
+OPP-1069,D. Johnson,Midwest,142111.88,Prospecting,31,0.32,2025-02-20,2025-07-06
+OPP-1070,A. Smith,Southeast,43033.86,Negotiation,16,0.82,2025-06-09,2025-09-17
+OPP-1071,E. Rivera,Southeast,49572.39,Closed Lost,32,0.44,2025-03-16,2025-07-27
+OPP-1072,E. Rivera,Midwest,216137.48,Prospecting,32,0.74,2025-01-08,2025-07-10
+OPP-1073,B. Chen,Midwest,236798.29,Prospecting,34,0.8,2025-02-14,2025-09-11
+OPP-1074,E. Rivera,International,96460.78,Closed Lost,11,0.7,2025-02-28,2025-08-17
+OPP-1075,B. Chen,International,71332.44,Prospecting,10,0.41,2025-05-12,2025-09-08
+OPP-1076,A. Smith,Southeast,162779.89,Closed Won,15,0.58,2025-04-14,2025-08-28
+OPP-1077,D. Johnson,West,105139.87,Proposal,17,0.5,2025-06-06,2025-08-28
+OPP-1078,D. Johnson,Southeast,11219.66,Prospecting,40,0.32,2025-06-06,2025-07-02
+OPP-1079,D. Johnson,West,43257.39,Closed Won,18,0.56,2025-04-08,2025-07-29
+OPP-1080,E. Rivera,West,180413.2,Qualified,55,0.26,2025-06-05,2025-09-06
+OPP-1081,A. Smith,International,166436.37,Proposal,9,0.74,2025-03-20,2025-09-03
+OPP-1082,E. Rivera,Northeast,11638.52,Qualified,25,0.41,2025-05-04,2025-09-21
+OPP-1083,E. Rivera,Northeast,59383.18,Proposal,40,0.54,2025-06-21,2025-07-26
+OPP-1084,A. Smith,Midwest,61613.33,Prospecting,59,0.56,2025-01-04,2025-09-27
+OPP-1085,A. Smith,International,169613.72,Qualified,14,0.45,2025-03-31,2025-07-10
+OPP-1086,A. Smith,West,9829.08,Closed Lost,58,0.62,2025-04-14,2025-08-22
+OPP-1087,A. Smith,Northeast,30506.6,Qualified,25,0.41,2025-05-17,2025-09-17
+OPP-1088,D. Johnson,West,200979.44,Negotiation,50,0.67,2025-04-29,2025-08-28
+OPP-1089,C. Patel,Northeast,48743.44,Qualified,22,0.23,2025-05-13,2025-07-22
+OPP-1090,C. Patel,Northeast,164922.8,Negotiation,52,0.53,2025-02-25,2025-08-20
+OPP-1091,A. Smith,Northeast,63354.78,Prospecting,30,0.89,2025-04-06,2025-08-17
+OPP-1092,C. Patel,International,29363.14,Closed Lost,20,0.3,2025-06-27,2025-07-21
+OPP-1093,C. Patel,Southeast,64577.19,Proposal,21,0.36,2025-03-16,2025-07-22
+OPP-1094,A. Smith,West,181955.4,Prospecting,44,0.6,2025-05-23,2025-07-30
+OPP-1095,C. Patel,International,214645.63,Prospecting,32,0.54,2025-02-01,2025-07-25
+OPP-1096,E. Rivera,International,208403.87,Prospecting,51,0.57,2025-01-28,2025-07-28
+OPP-1097,B. Chen,International,102309.96,Proposal,46,0.6,2025-01-22,2025-09-03
+OPP-1098,B. Chen,International,168680.86,Qualified,49,0.63,2025-01-17,2025-08-14
+OPP-1099,A. Smith,International,55221.15,Closed Won,56,0.72,2025-02-28,2025-09-06
+OPP-1100,D. Johnson,Midwest,76821.19,Qualified,21,0.58,2025-03-31,2025-07-07
+OPP-1101,A. Smith,West,224602.28,Prospecting,35,0.45,2025-04-16,2025-08-18
+OPP-1102,D. Johnson,International,8185.47,Proposal,58,0.63,2025-01-26,2025-07-09
+OPP-1103,B. Chen,West,25949.59,Negotiation,32,0.88,2025-01-25,2025-08-05
+OPP-1104,A. Smith,Midwest,55932.13,Prospecting,30,0.47,2025-05-18,2025-09-21
+OPP-1105,E. Rivera,Midwest,11500.39,Prospecting,55,0.31,2025-02-14,2025-07-01
+OPP-1106,C. Patel,West,49451.68,Prospecting,39,0.72,2025-03-24,2025-07-10
+OPP-1107,D. Johnson,Northeast,147845.18,Negotiation,49,0.48,2025-01-11,2025-08-05
+OPP-1108,C. Patel,Southeast,108249.01,Negotiation,12,0.07,2025-04-14,2025-09-11
+OPP-1109,C. Patel,Northeast,223704.57,Proposal,41,0.67,2025-03-09,2025-08-15
+OPP-1110,A. Smith,Northeast,205273.67,Closed Won,47,0.39,2025-04-05,2025-08-01
+OPP-1111,C. Patel,Northeast,88745.25,Closed Won,18,0.48,2025-06-05,2025-08-01
+OPP-1112,E. Rivera,International,68558.74,Proposal,21,0.57,2025-03-06,2025-07-06
+OPP-1113,C. Patel,Midwest,98024.64,Closed Won,13,0.54,2025-02-18,2025-08-17
+OPP-1114,A. Smith,Northeast,149622.26,Prospecting,21,0.64,2025-06-24,2025-08-07
+OPP-1115,E. Rivera,Midwest,70675.59,Prospecting,8,0.41,2025-02-21,2025-07-17
+OPP-1116,B. Chen,West,157916.48,Qualified,46,0.6,2025-04-12,2025-09-12
+OPP-1117,C. Patel,Southeast,105305.85,Prospecting,40,0.45,2025-02-26,2025-07-27
+OPP-1118,A. Smith,West,140251.56,Proposal,46,0.65,2025-02-16,2025-08-23
+OPP-1119,B. Chen,West,111851.0,Closed Lost,7,0.62,2025-06-08,2025-08-19
+OPP-1120,B. Chen,International,77144.11,Prospecting,23,0.31,2025-06-23,2025-08-04
+OPP-1121,D. Johnson,Southeast,237371.06,Prospecting,44,0.72,2025-01-26,2025-09-23
+OPP-1122,E. Rivera,West,192083.42,Proposal,32,0.39,2025-04-24,2025-07-25
+OPP-1123,C. Patel,West,39327.73,Closed Lost,11,0.66,2025-01-05,2025-07-28
+OPP-1124,A. Smith,Southeast,217774.65,Qualified,22,0.57,2025-03-25,2025-07-15
+OPP-1125,D. Johnson,Southeast,124420.64,Proposal,22,0.87,2025-02-21,2025-07-04
+OPP-1126,E. Rivera,West,224165.3,Prospecting,43,0.46,2025-04-15,2025-09-11
+OPP-1127,D. Johnson,Southeast,200964.54,Prospecting,25,0.43,2025-02-23,2025-07-27
+OPP-1128,E. Rivera,West,109177.31,Closed Lost,22,0.5,2025-06-10,2025-07-26
+OPP-1129,E. Rivera,West,10504.98,Closed Lost,28,0.44,2025-06-27,2025-07-19
+OPP-1130,C. Patel,International,70825.95,Prospecting,29,0.66,2025-06-15,2025-07-17
+OPP-1131,E. Rivera,Northeast,137700.38,Closed Lost,13,0.18,2025-06-04,2025-08-12
+OPP-1132,D. Johnson,West,160202.16,Proposal,18,0.29,2025-01-15,2025-08-10
+OPP-1133,E. Rivera,Midwest,68182.48,Closed Won,2,0.29,2025-03-02,2025-08-11
+OPP-1134,C. Patel,Northeast,39142.24,Proposal,29,0.69,2025-05-02,2025-08-19
+OPP-1135,C. Patel,Northeast,209557.91,Proposal,21,0.84,2025-01-21,2025-09-22
+OPP-1136,D. Johnson,Northeast,246178.53,Proposal,15,0.48,2025-02-15,2025-08-09
+OPP-1137,B. Chen,International,133794.09,Negotiation,52,0.47,2025-05-14,2025-08-08
+OPP-1138,B. Chen,West,47061.43,Prospecting,27,0.51,2025-02-07,2025-07-23
+OPP-1139,E. Rivera,International,71715.29,Prospecting,50,0.73,2025-03-03,2025-08-21
+OPP-1140,A. Smith,West,9505.72,Qualified,31,0.31,2025-03-27,2025-08-16
+OPP-1141,E. Rivera,International,229003.21,Negotiation,15,0.55,2025-03-19,2025-09-01
+OPP-1142,D. Johnson,International,33849.02,Prospecting,51,0.7,2025-02-15,2025-09-07
+OPP-1143,D. Johnson,Midwest,146246.54,Negotiation,23,0.6,2025-05-21,2025-08-12
+OPP-1144,D. Johnson,International,72143.53,Closed Lost,24,0.54,2025-01-03,2025-08-17
+OPP-1145,D. Johnson,Southeast,140773.61,Prospecting,44,0.7,2025-01-06,2025-08-03
+OPP-1146,D. Johnson,Midwest,164598.0,Negotiation,13,0.05,2025-04-03,2025-08-09
+OPP-1147,C. Patel,International,208286.74,Qualified,22,0.64,2025-01-08,2025-09-13
+OPP-1148,B. Chen,Northeast,55573.21,Closed Won,43,0.37,2025-06-21,2025-08-30
+OPP-1149,D. Johnson,Southeast,7693.98,Prospecting,37,0.13,2025-04-18,2025-08-19
+OPP-1150,A. Smith,Southeast,38536.98,Negotiation,33,0.6,2025-06-10,2025-09-05
+OPP-1151,A. Smith,Southeast,225504.57,Closed Won,56,0.77,2025-03-16,2025-08-31
+OPP-1152,A. Smith,Midwest,219103.07,Closed Lost,3,0.47,2025-03-18,2025-08-27
+OPP-1153,A. Smith,International,151366.21,Negotiation,54,0.69,2025-02-19,2025-08-02
+OPP-1154,C. Patel,International,152126.63,Proposal,19,0.82,2025-01-11,2025-09-13
+OPP-1155,A. Smith,Northeast,167933.99,Proposal,23,0.76,2025-04-05,2025-07-16
+OPP-1156,D. Johnson,Northeast,47965.96,Closed Won,29,0.83,2025-06-05,2025-09-20
+OPP-1157,E. Rivera,Southeast,229030.93,Proposal,30,0.65,2025-03-11,2025-08-17
+OPP-1158,A. Smith,Northeast,107598.78,Prospecting,39,0.52,2025-06-18,2025-07-10
+OPP-1159,C. Patel,Midwest,98868.94,Closed Lost,44,0.18,2025-01-16,2025-09-20
+OPP-1160,C. Patel,International,132134.84,Negotiation,47,0.45,2025-03-09,2025-08-07
+OPP-1161,A. Smith,Southeast,16506.66,Negotiation,25,0.33,2025-04-09,2025-07-19
+OPP-1162,E. Rivera,Northeast,45739.43,Prospecting,37,0.93,2025-02-17,2025-08-05
+OPP-1163,A. Smith,Midwest,185818.24,Negotiation,47,0.46,2025-03-05,2025-08-28
+OPP-1164,C. Patel,Midwest,25285.67,Qualified,8,0.52,2025-03-31,2025-09-01
+OPP-1165,B. Chen,Northeast,152772.27,Negotiation,42,0.61,2025-03-17,2025-09-15
+OPP-1166,D. Johnson,International,65110.53,Prospecting,58,0.51,2025-05-19,2025-08-15
+OPP-1167,C. Patel,Northeast,100377.43,Negotiation,16,0.84,2025-04-11,2025-07-03
+OPP-1168,A. Smith,Southeast,75729.97,Closed Lost,8,0.38,2025-03-30,2025-09-12
+OPP-1169,D. Johnson,Northeast,92139.82,Prospecting,1,0.54,2025-01-18,2025-09-03
+OPP-1170,A. Smith,Midwest,181166.25,Closed Lost,44,0.35,2025-01-19,2025-07-08
+OPP-1171,A. Smith,Northeast,77794.82,Qualified,5,0.24,2025-02-24,2025-08-20
+OPP-1172,B. Chen,International,143769.14,Closed Won,3,0.38,2025-04-12,2025-09-19
+OPP-1173,D. Johnson,West,121632.35,Negotiation,1,0.49,2025-04-28,2025-09-11
+OPP-1174,D. Johnson,Northeast,167599.44,Proposal,4,0.41,2025-06-03,2025-07-06
+OPP-1175,B. Chen,International,234523.29,Negotiation,40,0.36,2025-05-14,2025-09-27
+OPP-1176,C. Patel,International,184480.16,Closed Won,35,0.22,2025-01-04,2025-08-08
+OPP-1177,A. Smith,Midwest,57660.39,Qualified,32,0.48,2025-04-18,2025-08-29
+OPP-1178,E. Rivera,International,12639.87,Qualified,42,0.2,2025-04-25,2025-07-28
+OPP-1179,A. Smith,International,69254.69,Negotiation,34,0.65,2025-01-29,2025-08-23
+OPP-1180,A. Smith,International,150794.09,Closed Won,43,0.52,2025-02-28,2025-08-06
+OPP-1181,C. Patel,International,17599.32,Negotiation,25,0.21,2025-05-05,2025-07-09
+OPP-1182,A. Smith,Southeast,126609.73,Negotiation,10,0.44,2025-04-08,2025-09-20
+OPP-1183,B. Chen,Southeast,151226.5,Qualified,21,0.35,2025-01-17,2025-08-25
+OPP-1184,B. Chen,Midwest,86889.75,Closed Won,46,0.56,2025-04-17,2025-08-28
+OPP-1185,D. Johnson,Northeast,193873.49,Prospecting,39,0.77,2025-02-12,2025-09-23
+OPP-1186,E. Rivera,International,31116.57,Proposal,27,0.12,2025-03-21,2025-07-02
+OPP-1187,A. Smith,Northeast,23408.76,Prospecting,27,0.52,2025-06-11,2025-08-30
+OPP-1188,A. Smith,Northeast,183406.25,Qualified,2,0.47,2025-01-08,2025-08-27
+OPP-1189,C. Patel,Midwest,126395.37,Qualified,41,0.63,2025-05-21,2025-08-29
+OPP-1190,B. Chen,International,173658.59,Qualified,48,0.54,2025-04-16,2025-08-09
+OPP-1191,E. Rivera,International,111532.7,Negotiation,13,0.35,2025-01-08,2025-08-05
+OPP-1192,D. Johnson,West,65368.5,Qualified,9,0.44,2025-04-06,2025-08-06
+OPP-1193,B. Chen,Northeast,205680.07,Qualified,52,0.34,2025-04-04,2025-09-17
+OPP-1194,D. Johnson,Northeast,200856.89,Prospecting,36,0.72,2025-03-06,2025-07-18
+OPP-1195,C. Patel,Southeast,175200.64,Qualified,22,0.5,2025-06-20,2025-09-01
+OPP-1196,C. Patel,West,71675.56,Prospecting,42,0.88,2025-02-08,2025-07-22
+OPP-1197,A. Smith,Southeast,149606.51,Prospecting,26,0.49,2025-03-22,2025-07-11
+OPP-1198,E. Rivera,Southeast,93438.6,Proposal,58,0.36,2025-03-25,2025-08-27
+OPP-1199,D. Johnson,Southeast,27437.61,Negotiation,54,0.2,2025-03-29,2025-08-26
+OPP-1200,B. Chen,Midwest,229741.83,Proposal,12,0.14,2025-03-27,2025-09-15
+OPP-1201,C. Patel,Midwest,38520.56,Proposal,17,0.18,2025-04-03,2025-07-04
+OPP-1202,A. Smith,Southeast,237808.15,Qualified,14,0.55,2025-03-27,2025-09-24
+OPP-1203,A. Smith,West,114271.41,Closed Won,14,0.6,2025-02-13,2025-07-07
+OPP-1204,D. Johnson,Northeast,50357.57,Proposal,57,0.18,2025-05-17,2025-08-30
+OPP-1205,C. Patel,West,137765.73,Proposal,34,0.68,2025-06-14,2025-08-23
+OPP-1206,E. Rivera,International,218871.73,Prospecting,53,0.4,2025-03-15,2025-09-26
+OPP-1207,C. Patel,Midwest,184395.1,Qualified,57,0.53,2025-02-05,2025-09-06
+OPP-1208,D. Johnson,Northeast,202607.48,Qualified,20,0.82,2025-04-11,2025-09-17
+OPP-1209,D. Johnson,Northeast,166401.92,Qualified,11,0.68,2025-06-05,2025-07-01
+OPP-1210,C. Patel,International,174607.76,Proposal,16,0.45,2025-06-19,2025-08-24
+OPP-1211,D. Johnson,International,213052.93,Proposal,51,0.32,2025-06-20,2025-07-03
+OPP-1212,C. Patel,Southeast,66168.66,Proposal,31,0.07,2025-06-19,2025-09-16
+OPP-1213,B. Chen,Midwest,124909.12,Negotiation,55,0.36,2025-04-14,2025-08-07
+OPP-1214,C. Patel,Midwest,59196.31,Closed Won,6,0.46,2025-03-07,2025-07-01
+OPP-1215,C. Patel,West,246978.66,Negotiation,56,0.3,2025-02-24,2025-08-07
+OPP-1216,D. Johnson,Southeast,236294.54,Closed Lost,19,0.47,2025-06-25,2025-09-23
+OPP-1217,D. Johnson,Southeast,14659.57,Prospecting,37,0.52,2025-04-01,2025-07-29
+OPP-1218,A. Smith,Southeast,177865.92,Prospecting,58,0.46,2025-01-22,2025-07-05
+OPP-1219,A. Smith,Southeast,231685.84,Prospecting,4,0.37,2025-04-11,2025-09-12
+OPP-1220,B. Chen,Midwest,49240.96,Proposal,47,0.53,2025-06-04,2025-07-21
+OPP-1221,A. Smith,Midwest,144146.58,Closed Won,4,0.59,2025-05-01,2025-09-09
+OPP-1222,C. Patel,Southeast,229294.63,Prospecting,20,0.28,2025-04-03,2025-09-05
+OPP-1223,D. Johnson,West,13316.76,Closed Lost,10,0.78,2025-04-18,2025-08-16
+OPP-1224,A. Smith,Northeast,175867.97,Prospecting,24,0.48,2025-05-21,2025-09-22
+OPP-1225,A. Smith,Northeast,77850.51,Closed Lost,54,0.5,2025-06-22,2025-09-21
+OPP-1226,B. Chen,West,231477.07,Qualified,35,0.64,2025-01-10,2025-08-04
+OPP-1227,B. Chen,Southeast,242909.27,Prospecting,26,0.55,2025-01-09,2025-09-06
+OPP-1228,C. Patel,Midwest,236345.29,Proposal,37,0.69,2025-06-04,2025-09-07
+OPP-1229,D. Johnson,Northeast,121182.48,Qualified,38,0.56,2025-02-03,2025-07-01
+OPP-1230,B. Chen,International,216200.45,Qualified,21,0.38,2025-05-09,2025-09-06
+OPP-1231,A. Smith,International,211914.6,Qualified,54,0.57,2025-06-09,2025-07-12
+OPP-1232,D. Johnson,West,83179.62,Closed Won,40,0.27,2025-03-30,2025-08-29
+OPP-1233,D. Johnson,Southeast,208084.29,Proposal,39,0.52,2025-04-03,2025-07-27
+OPP-1234,A. Smith,Northeast,14066.87,Qualified,21,0.49,2025-03-12,2025-08-25
+OPP-1235,B. Chen,Southeast,151086.12,Proposal,10,0.46,2025-03-08,2025-07-23
+OPP-1236,A. Smith,Northeast,61352.17,Negotiation,38,0.47,2025-05-28,2025-07-25
+OPP-1237,D. Johnson,West,34538.89,Qualified,46,0.12,2025-04-27,2025-07-21
+OPP-1238,E. Rivera,West,23853.53,Qualified,4,0.39,2025-04-04,2025-08-30
+OPP-1239,E. Rivera,International,175590.75,Prospecting,57,0.52,2025-06-12,2025-09-01
+OPP-1240,C. Patel,Southeast,88269.37,Prospecting,45,0.53,2025-04-09,2025-08-21
+OPP-1241,A. Smith,International,182567.86,Negotiation,20,0.29,2025-04-23,2025-09-26
+OPP-1242,A. Smith,Southeast,21012.3,Prospecting,17,0.75,2025-04-13,2025-07-25
+OPP-1243,C. Patel,International,82246.13,Proposal,55,0.33,2025-04-01,2025-08-24
+OPP-1244,C. Patel,Midwest,137175.37,Negotiation,7,0.69,2025-03-31,2025-08-15
+OPP-1245,C. Patel,Midwest,198727.18,Prospecting,4,0.59,2025-01-17,2025-08-01
+OPP-1246,D. Johnson,Midwest,83094.36,Proposal,29,0.37,2025-01-18,2025-08-24
+OPP-1247,A. Smith,Midwest,158343.39,Qualified,14,0.86,2025-06-22,2025-07-05
+OPP-1248,D. Johnson,Northeast,222064.55,Closed Lost,3,0.26,2025-04-26,2025-08-05
+OPP-1249,C. Patel,Midwest,155886.48,Proposal,24,0.68,2025-04-03,2025-08-18
+OPP-1250,A. Smith,West,62075.07,Closed Won,37,0.7,2025-04-01,2025-08-27
+OPP-1251,D. Johnson,West,10978.19,Proposal,16,0.37,2025-03-23,2025-08-08
+OPP-1252,D. Johnson,Northeast,218174.22,Prospecting,58,0.78,2025-03-09,2025-09-18
+OPP-1253,C. Patel,Midwest,10211.01,Proposal,55,0.45,2025-04-24,2025-09-23
+OPP-1254,A. Smith,Midwest,219301.91,Closed Lost,52,0.56,2025-01-01,2025-08-30
+OPP-1255,C. Patel,Midwest,134589.6,Proposal,4,0.55,2025-02-27,2025-07-09
+OPP-1256,A. Smith,International,235071.59,Closed Won,56,0.47,2025-06-03,2025-07-06
+OPP-1257,E. Rivera,Southeast,200701.89,Closed Won,24,0.66,2025-04-19,2025-08-04
+OPP-1258,B. Chen,International,249493.86,Prospecting,34,0.66,2025-05-28,2025-08-08
+OPP-1259,B. Chen,Southeast,90924.39,Prospecting,30,0.15,2025-04-26,2025-07-22
+OPP-1260,B. Chen,Midwest,192961.13,Proposal,18,0.76,2025-03-28,2025-08-10
+OPP-1261,C. Patel,Midwest,103473.07,Qualified,19,0.17,2025-01-10,2025-07-05
+OPP-1262,E. Rivera,International,122569.53,Closed Won,31,0.71,2025-02-28,2025-08-11
+OPP-1263,A. Smith,International,158738.84,Closed Lost,19,0.73,2025-02-10,2025-09-25
+OPP-1264,D. Johnson,Southeast,219050.89,Qualified,49,0.28,2025-04-15,2025-09-19
+OPP-1265,A. Smith,West,246100.45,Prospecting,46,0.42,2025-05-13,2025-09-14
+OPP-1266,D. Johnson,Southeast,193226.99,Negotiation,19,0.28,2025-05-02,2025-09-25
+OPP-1267,A. Smith,International,107352.86,Qualified,22,0.46,2025-05-25,2025-09-18
+OPP-1268,E. Rivera,International,108232.47,Closed Won,24,0.44,2025-01-22,2025-09-05
+OPP-1269,D. Johnson,Northeast,185707.66,Qualified,45,0.66,2025-04-08,2025-07-30
+OPP-1270,C. Patel,International,63500.4,Negotiation,12,0.76,2025-06-18,2025-08-26
+OPP-1271,A. Smith,Northeast,32066.16,Prospecting,30,0.78,2025-03-09,2025-09-24
+OPP-1272,A. Smith,West,91882.43,Proposal,58,0.39,2025-05-19,2025-09-11
+OPP-1273,D. Johnson,Southeast,75373.55,Proposal,38,0.46,2025-02-25,2025-07-29
+OPP-1274,C. Patel,Southeast,77595.49,Proposal,53,0.16,2025-06-28,2025-08-06
+OPP-1275,C. Patel,Northeast,62233.9,Prospecting,31,0.34,2025-05-29,2025-09-25
+OPP-1276,E. Rivera,Southeast,15312.83,Negotiation,36,0.69,2025-04-09,2025-07-13
+OPP-1277,C. Patel,International,9379.11,Closed Won,19,0.82,2025-03-17,2025-08-01
+OPP-1278,C. Patel,Midwest,246991.99,Prospecting,48,0.25,2025-01-26,2025-08-15
+OPP-1279,C. Patel,Northeast,109804.42,Prospecting,45,0.38,2025-04-25,2025-07-23
+OPP-1280,B. Chen,Southeast,99160.03,Prospecting,36,0.49,2025-05-27,2025-08-14
+OPP-1281,E. Rivera,Northeast,171513.58,Proposal,30,0.56,2025-04-19,2025-07-17
+OPP-1282,A. Smith,Northeast,58472.2,Proposal,55,0.34,2025-02-16,2025-09-23
+OPP-1283,D. Johnson,Midwest,237740.49,Proposal,49,0.58,2025-03-12,2025-09-04
+OPP-1284,A. Smith,International,197654.53,Prospecting,55,0.41,2025-06-03,2025-07-06
+OPP-1285,E. Rivera,Northeast,26905.7,Qualified,33,0.5,2025-02-09,2025-07-18
+OPP-1286,D. Johnson,Southeast,107307.29,Proposal,18,0.61,2025-05-13,2025-07-22
+OPP-1287,E. Rivera,West,220383.99,Proposal,52,0.5,2025-05-29,2025-08-02
+OPP-1288,C. Patel,Northeast,236459.35,Closed Lost,49,0.41,2025-05-12,2025-07-30
+OPP-1289,D. Johnson,Northeast,119513.37,Prospecting,59,0.48,2025-01-23,2025-09-19
+OPP-1290,C. Patel,Midwest,155285.79,Negotiation,28,0.48,2025-04-16,2025-08-01
+OPP-1291,A. Smith,International,45923.32,Qualified,59,0.43,2025-03-25,2025-08-11
+OPP-1292,A. Smith,West,247836.31,Qualified,47,0.45,2025-05-23,2025-09-16
+OPP-1293,D. Johnson,Southeast,61759.57,Negotiation,11,0.82,2025-04-26,2025-07-10
+OPP-1294,D. Johnson,West,235969.28,Negotiation,57,0.61,2025-04-19,2025-08-05
+OPP-1295,E. Rivera,Southeast,164163.43,Closed Lost,54,0.44,2025-05-16,2025-08-03
+OPP-1296,E. Rivera,International,153895.51,Prospecting,45,0.64,2025-02-10,2025-09-11
+OPP-1297,C. Patel,Southeast,130608.69,Prospecting,33,0.43,2025-04-22,2025-07-28
+OPP-1298,D. Johnson,Midwest,61514.1,Negotiation,17,0.73,2025-05-27,2025-07-11
+OPP-1299,A. Smith,Midwest,48249.37,Proposal,6,0.57,2025-04-22,2025-09-16
+OPP-1300,E. Rivera,Midwest,59019.12,Qualified,4,0.48,2025-04-13,2025-08-08
+OPP-1301,E. Rivera,Midwest,50677.37,Prospecting,20,0.59,2025-02-15,2025-08-16
+OPP-1302,A. Smith,West,195998.2,Prospecting,48,0.19,2025-06-05,2025-07-19
+OPP-1303,E. Rivera,International,90780.69,Closed Won,47,0.27,2025-03-09,2025-07-15
+OPP-1304,C. Patel,Southeast,19171.46,Prospecting,27,0.26,2025-05-02,2025-07-28
+OPP-1305,D. Johnson,Southeast,242430.14,Qualified,15,0.53,2025-01-15,2025-07-24
+OPP-1306,A. Smith,Midwest,221527.54,Prospecting,6,0.85,2025-06-14,2025-09-10
+OPP-1307,D. Johnson,Midwest,232299.31,Qualified,47,0.95,2025-05-09,2025-07-09
+OPP-1308,E. Rivera,Northeast,248752.42,Prospecting,14,0.63,2025-04-21,2025-08-16
+OPP-1309,E. Rivera,International,47604.34,Proposal,11,0.6,2025-01-24,2025-08-02
+OPP-1310,A. Smith,West,102079.29,Prospecting,39,0.14,2025-01-27,2025-08-31
+OPP-1311,C. Patel,Southeast,190768.43,Closed Won,9,0.39,2025-02-09,2025-07-19
+OPP-1312,B. Chen,Northeast,175525.05,Prospecting,26,0.34,2025-06-13,2025-09-05
+OPP-1313,A. Smith,Northeast,42704.5,Proposal,16,0.38,2025-01-24,2025-09-12
+OPP-1314,B. Chen,Southeast,204879.12,Closed Won,5,0.47,2025-01-24,2025-08-09
+OPP-1315,B. Chen,West,59987.94,Negotiation,57,0.41,2025-01-04,2025-08-16
+OPP-1316,C. Patel,Northeast,59835.32,Proposal,52,0.1,2025-03-08,2025-09-03
+OPP-1317,B. Chen,Northeast,136558.73,Qualified,10,0.65,2025-02-03,2025-07-29
+OPP-1318,B. Chen,International,150270.28,Qualified,50,0.29,2025-06-26,2025-08-19
+OPP-1319,C. Patel,West,147121.12,Negotiation,3,0.55,2025-04-26,2025-07-13
+OPP-1320,B. Chen,Northeast,27414.28,Closed Lost,13,0.91,2025-01-23,2025-07-01
+OPP-1321,B. Chen,West,219977.91,Negotiation,43,0.32,2025-04-19,2025-08-03
+OPP-1322,B. Chen,Southeast,70072.01,Proposal,49,0.05,2025-03-10,2025-08-17
+OPP-1323,A. Smith,Midwest,36731.16,Negotiation,30,0.44,2025-04-05,2025-09-15
+OPP-1324,A. Smith,Northeast,222743.28,Proposal,54,0.72,2025-03-03,2025-08-17
+OPP-1325,A. Smith,International,239134.62,Prospecting,45,0.89,2025-06-18,2025-08-18
+OPP-1326,C. Patel,Southeast,216221.27,Proposal,6,0.25,2025-02-26,2025-09-02
+OPP-1327,E. Rivera,West,203331.44,Closed Lost,17,0.6,2025-02-23,2025-08-30
+OPP-1328,B. Chen,Southeast,165534.29,Prospecting,59,0.41,2025-03-11,2025-07-29
+OPP-1329,B. Chen,Northeast,139960.06,Negotiation,45,0.48,2025-04-11,2025-08-08
+OPP-1330,C. Patel,West,26311.76,Prospecting,51,0.95,2025-02-26,2025-09-26
+OPP-1331,B. Chen,Midwest,105071.04,Proposal,53,0.2,2025-05-18,2025-07-26
+OPP-1332,A. Smith,Southeast,96308.69,Prospecting,19,0.55,2025-06-17,2025-07-17
+OPP-1333,E. Rivera,Northeast,68639.68,Proposal,42,0.59,2025-05-15,2025-09-09
+OPP-1334,D. Johnson,International,182237.93,Negotiation,35,0.72,2025-04-13,2025-07-13
+OPP-1335,B. Chen,West,126489.56,Qualified,46,0.52,2025-06-15,2025-09-07
+OPP-1336,A. Smith,Southeast,24856.32,Negotiation,26,0.56,2025-03-26,2025-07-26
+OPP-1337,D. Johnson,Southeast,58944.88,Negotiation,51,0.42,2025-03-02,2025-08-18
+OPP-1338,E. Rivera,Midwest,172398.4,Closed Lost,5,0.55,2025-01-03,2025-09-05
+OPP-1339,D. Johnson,Midwest,23652.06,Prospecting,29,0.43,2025-05-08,2025-07-07
+OPP-1340,A. Smith,International,213545.69,Qualified,37,0.62,2025-06-28,2025-08-27
+OPP-1341,D. Johnson,International,126310.9,Prospecting,20,0.43,2025-03-27,2025-08-18
+OPP-1342,C. Patel,Northeast,122743.71,Closed Lost,49,0.58,2025-02-16,2025-08-22
+OPP-1343,D. Johnson,Northeast,150139.91,Closed Lost,21,0.49,2025-03-17,2025-09-03
+OPP-1344,B. Chen,International,207046.84,Proposal,10,0.73,2025-02-07,2025-08-31
+OPP-1345,B. Chen,International,90213.26,Closed Won,5,0.49,2025-06-13,2025-07-17
+OPP-1346,C. Patel,West,171113.96,Proposal,36,0.15,2025-06-18,2025-08-12
+OPP-1347,A. Smith,Midwest,143604.33,Proposal,6,0.75,2025-05-21,2025-07-25
+OPP-1348,B. Chen,Northeast,70421.93,Prospecting,26,0.32,2025-03-28,2025-07-03
+OPP-1349,E. Rivera,Midwest,220264.35,Negotiation,4,0.37,2025-02-27,2025-09-17
+OPP-1350,B. Chen,Midwest,200369.38,Prospecting,39,0.38,2025-02-19,2025-07-29
+OPP-1351,B. Chen,International,166320.7,Closed Won,39,0.77,2025-01-30,2025-08-01
+OPP-1352,A. Smith,West,213392.52,Negotiation,50,0.07,2025-04-11,2025-07-26
+OPP-1353,D. Johnson,Southeast,217487.08,Negotiation,35,0.95,2025-01-25,2025-07-16
+OPP-1354,B. Chen,West,178548.93,Prospecting,1,0.71,2025-04-22,2025-07-25
+OPP-1355,C. Patel,West,210068.27,Qualified,24,0.54,2025-06-04,2025-08-23
+OPP-1356,D. Johnson,Midwest,175880.51,Qualified,57,0.49,2025-06-28,2025-07-28
+OPP-1357,E. Rivera,West,171634.49,Qualified,36,0.56,2025-05-06,2025-09-11
+OPP-1358,A. Smith,Northeast,156559.79,Prospecting,6,0.6,2025-05-03,2025-08-25
+OPP-1359,E. Rivera,Midwest,189415.58,Closed Lost,41,0.63,2025-02-16,2025-09-03
+OPP-1360,D. Johnson,Northeast,43858.25,Proposal,54,0.61,2025-04-28,2025-09-24
+OPP-1361,D. Johnson,Southeast,220813.34,Qualified,46,0.52,2025-02-08,2025-09-18
+OPP-1362,D. Johnson,Midwest,218601.66,Qualified,44,0.46,2025-01-16,2025-08-10
+OPP-1363,E. Rivera,Southeast,12165.58,Qualified,57,0.47,2025-01-22,2025-08-20
+OPP-1364,D. Johnson,Midwest,207325.1,Proposal,31,0.46,2025-02-23,2025-09-09
+OPP-1365,E. Rivera,International,36573.12,Proposal,20,0.73,2025-05-29,2025-09-16
+OPP-1366,D. Johnson,West,87104.12,Closed Lost,24,0.62,2025-01-16,2025-07-29
+OPP-1367,C. Patel,International,187159.52,Proposal,25,0.05,2025-02-28,2025-09-21
+OPP-1368,D. Johnson,Southeast,44386.17,Closed Lost,36,0.63,2025-01-31,2025-07-19
+OPP-1369,E. Rivera,West,205401.92,Closed Won,21,0.54,2025-06-19,2025-09-04
+OPP-1370,B. Chen,Midwest,208872.87,Prospecting,30,0.5,2025-02-01,2025-08-10
+OPP-1371,D. Johnson,West,129329.59,Closed Lost,24,0.42,2025-06-11,2025-08-14
+OPP-1372,B. Chen,Northeast,6564.54,Prospecting,44,0.72,2025-01-09,2025-07-15
+OPP-1373,C. Patel,West,75324.34,Closed Won,42,0.69,2025-05-19,2025-07-03
+OPP-1374,A. Smith,Northeast,156147.1,Qualified,30,0.35,2025-01-10,2025-07-11
+OPP-1375,C. Patel,West,245390.61,Closed Won,22,0.58,2025-01-17,2025-08-22
+OPP-1376,D. Johnson,Northeast,159794.31,Closed Won,28,0.31,2025-03-09,2025-08-15
+OPP-1377,B. Chen,Southeast,68651.88,Closed Won,7,0.22,2025-02-17,2025-07-30
+OPP-1378,B. Chen,International,160331.4,Negotiation,35,0.37,2025-06-29,2025-08-26
+OPP-1379,E. Rivera,Midwest,137296.42,Qualified,55,0.67,2025-04-21,2025-07-18
+OPP-1380,B. Chen,West,196062.12,Prospecting,28,0.69,2025-06-02,2025-08-20
+OPP-1381,E. Rivera,International,31210.26,Qualified,14,0.6,2025-05-03,2025-08-17
+OPP-1382,A. Smith,Midwest,191451.84,Prospecting,56,0.65,2025-05-29,2025-09-04
+OPP-1383,D. Johnson,Midwest,137610.31,Negotiation,10,0.6,2025-04-11,2025-07-08
+OPP-1384,E. Rivera,Northeast,240933.04,Qualified,16,0.37,2025-04-12,2025-07-22
+OPP-1385,A. Smith,Southeast,88758.68,Closed Lost,16,0.59,2025-03-06,2025-07-06
+OPP-1386,B. Chen,Southeast,159992.36,Proposal,54,0.66,2025-02-20,2025-09-14
+OPP-1387,B. Chen,International,233346.89,Closed Won,31,0.65,2025-02-05,2025-08-26
+OPP-1388,A. Smith,Southeast,30114.88,Prospecting,42,0.74,2025-03-22,2025-08-05
+OPP-1389,B. Chen,West,234620.98,Closed Won,25,0.64,2025-05-07,2025-09-17
+OPP-1390,A. Smith,Southeast,173532.0,Closed Lost,13,0.57,2025-03-29,2025-08-26
+OPP-1391,E. Rivera,International,21620.08,Proposal,6,0.71,2025-04-14,2025-08-18
+OPP-1392,E. Rivera,Southeast,78736.07,Proposal,44,0.49,2025-01-15,2025-08-14
+OPP-1393,A. Smith,West,178502.16,Negotiation,9,0.32,2025-04-06,2025-09-20
+OPP-1394,E. Rivera,Northeast,21500.9,Prospecting,45,0.47,2025-06-16,2025-09-04
+OPP-1395,E. Rivera,International,147631.76,Proposal,36,0.35,2025-05-03,2025-09-15
+OPP-1396,E. Rivera,Northeast,89741.35,Qualified,56,0.36,2025-01-01,2025-08-14
+OPP-1397,C. Patel,Northeast,157124.3,Prospecting,43,0.47,2025-05-31,2025-09-17
+OPP-1398,D. Johnson,Northeast,16206.8,Qualified,20,0.34,2025-05-02,2025-07-20
+OPP-1399,B. Chen,Midwest,218526.52,Prospecting,18,0.44,2025-06-16,2025-09-02
+OPP-1400,C. Patel,Midwest,243504.8,Prospecting,58,0.12,2025-05-06,2025-09-05
+OPP-1401,E. Rivera,Northeast,242375.07,Prospecting,43,0.54,2025-02-26,2025-09-21
+OPP-1402,A. Smith,International,188664.7,Closed Lost,57,0.5,2025-03-22,2025-07-03
+OPP-1403,E. Rivera,West,36871.13,Proposal,21,0.34,2025-06-11,2025-08-23
+OPP-1404,D. Johnson,West,190774.48,Closed Lost,4,0.63,2025-06-18,2025-09-16
+OPP-1405,E. Rivera,Southeast,11023.79,Qualified,50,0.69,2025-03-14,2025-09-02
+OPP-1406,A. Smith,International,10420.27,Qualified,33,0.18,2025-05-21,2025-08-09
+OPP-1407,D. Johnson,Midwest,84284.5,Proposal,27,0.35,2025-03-11,2025-08-28
+OPP-1408,E. Rivera,Northeast,124717.58,Qualified,7,0.35,2025-01-06,2025-08-24
+OPP-1409,D. Johnson,Southeast,193749.82,Prospecting,6,0.31,2025-03-25,2025-08-31
+OPP-1410,B. Chen,West,172407.37,Proposal,15,0.67,2025-02-21,2025-07-04
+OPP-1411,B. Chen,Midwest,114246.16,Prospecting,18,0.46,2025-01-03,2025-08-29
+OPP-1412,E. Rivera,Midwest,72038.53,Proposal,32,0.45,2025-03-22,2025-09-13
+OPP-1413,D. Johnson,Northeast,249295.5,Negotiation,56,0.1,2025-03-04,2025-07-30
+OPP-1414,A. Smith,West,109414.42,Prospecting,11,0.63,2025-02-18,2025-07-02
+OPP-1415,E. Rivera,International,115589.82,Prospecting,20,0.25,2025-03-17,2025-08-31
+OPP-1416,B. Chen,Midwest,45087.84,Negotiation,24,0.51,2025-04-22,2025-08-18
+OPP-1417,B. Chen,Northeast,199728.34,Proposal,15,0.56,2025-06-24,2025-07-09
+OPP-1418,E. Rivera,International,174952.15,Prospecting,48,0.77,2025-04-19,2025-07-31
+OPP-1419,D. Johnson,West,59088.56,Closed Lost,7,0.24,2025-03-06,2025-08-30
+OPP-1420,B. Chen,Midwest,25183.36,Prospecting,21,0.05,2025-03-22,2025-09-17
+OPP-1421,D. Johnson,International,171722.33,Negotiation,42,0.54,2025-01-15,2025-08-17
+OPP-1422,B. Chen,International,165355.25,Closed Lost,26,0.86,2025-04-10,2025-07-25
+OPP-1423,B. Chen,International,71948.58,Prospecting,44,0.75,2025-02-01,2025-08-05
+OPP-1424,C. Patel,Midwest,237961.57,Prospecting,56,0.54,2025-04-06,2025-07-08
+OPP-1425,B. Chen,Midwest,42009.18,Prospecting,14,0.4,2025-05-08,2025-09-11
+OPP-1426,A. Smith,Southeast,110922.03,Qualified,57,0.66,2025-05-26,2025-08-27
+OPP-1427,E. Rivera,West,236185.9,Prospecting,37,0.31,2025-04-23,2025-08-14
+OPP-1428,E. Rivera,Northeast,107833.19,Negotiation,58,0.6,2025-03-24,2025-08-31
+OPP-1429,D. Johnson,International,161438.86,Prospecting,21,0.6,2025-02-12,2025-08-08
+OPP-1430,B. Chen,Southeast,102410.63,Proposal,18,0.71,2025-04-26,2025-08-27
+OPP-1431,A. Smith,Northeast,72182.72,Closed Lost,5,0.95,2025-06-12,2025-09-19
+OPP-1432,D. Johnson,Southeast,246074.52,Closed Won,3,0.58,2025-03-19,2025-09-21
+OPP-1433,C. Patel,Midwest,105286.83,Proposal,23,0.4,2025-02-27,2025-09-02
+OPP-1434,D. Johnson,International,224054.3,Qualified,26,0.49,2025-02-02,2025-08-13
+OPP-1435,D. Johnson,Northeast,61338.88,Proposal,37,0.15,2025-01-14,2025-07-29
+OPP-1436,B. Chen,Northeast,57210.65,Proposal,24,0.36,2025-06-11,2025-08-28
+OPP-1437,C. Patel,Northeast,12627.85,Qualified,49,0.42,2025-05-12,2025-09-09
+OPP-1438,D. Johnson,Northeast,164658.37,Prospecting,19,0.4,2025-02-28,2025-07-09
+OPP-1439,A. Smith,Northeast,95288.95,Closed Won,51,0.53,2025-06-06,2025-07-06
+OPP-1440,A. Smith,Southeast,216767.77,Qualified,25,0.34,2025-03-24,2025-07-29
+OPP-1441,E. Rivera,International,120936.43,Prospecting,21,0.72,2025-05-14,2025-08-27
+OPP-1442,C. Patel,Midwest,242207.39,Qualified,12,0.5,2025-05-01,2025-07-17
+OPP-1443,C. Patel,Midwest,50453.75,Qualified,57,0.5,2025-06-26,2025-07-16
+OPP-1444,E. Rivera,Midwest,217812.68,Closed Won,41,0.43,2025-06-17,2025-09-25
+OPP-1445,D. Johnson,Midwest,195266.23,Negotiation,33,0.53,2025-03-24,2025-07-03
+OPP-1446,C. Patel,Southeast,193875.85,Negotiation,50,0.67,2025-01-27,2025-07-21
+OPP-1447,A. Smith,West,211971.89,Prospecting,53,0.33,2025-03-21,2025-09-02
+OPP-1448,A. Smith,International,191450.88,Qualified,4,0.37,2025-05-14,2025-09-28
+OPP-1449,B. Chen,Northeast,158423.98,Proposal,42,0.44,2025-01-13,2025-08-05
+OPP-1450,C. Patel,West,37155.0,Prospecting,57,0.23,2025-03-05,2025-09-24
+OPP-1451,D. Johnson,Midwest,12968.91,Qualified,7,0.34,2025-05-27,2025-08-31
+OPP-1452,E. Rivera,West,230607.72,Negotiation,22,0.4,2025-03-21,2025-08-11
+OPP-1453,E. Rivera,International,156079.33,Prospecting,55,0.67,2025-05-03,2025-09-14
+OPP-1454,D. Johnson,Northeast,200151.64,Proposal,33,0.55,2025-02-12,2025-08-11
+OPP-1455,B. Chen,Northeast,122972.98,Prospecting,17,0.54,2025-03-30,2025-08-30
+OPP-1456,E. Rivera,International,33740.51,Prospecting,24,0.67,2025-05-28,2025-07-13
+OPP-1457,C. Patel,International,35670.52,Prospecting,34,0.47,2025-04-05,2025-07-11
+OPP-1458,B. Chen,Midwest,172963.5,Closed Lost,28,0.58,2025-06-21,2025-08-23
+OPP-1459,C. Patel,Northeast,110424.94,Closed Won,58,0.48,2025-05-31,2025-07-16
+OPP-1460,A. Smith,West,54128.56,Closed Lost,43,0.55,2025-01-02,2025-07-08
+OPP-1461,B. Chen,Southeast,125440.66,Proposal,41,0.38,2025-04-30,2025-08-28
+OPP-1462,E. Rivera,Southeast,20731.19,Prospecting,39,0.05,2025-01-22,2025-08-26
+OPP-1463,B. Chen,International,147582.99,Proposal,22,0.47,2025-04-25,2025-08-09
+OPP-1464,B. Chen,Midwest,70903.38,Proposal,49,0.78,2025-02-26,2025-08-28
+OPP-1465,B. Chen,Southeast,200401.98,Closed Won,17,0.69,2025-03-13,2025-07-02
+OPP-1466,B. Chen,Northeast,81038.68,Prospecting,34,0.69,2025-01-07,2025-09-14
+OPP-1467,C. Patel,International,116528.94,Proposal,6,0.75,2025-04-29,2025-07-10
+OPP-1468,A. Smith,West,7847.03,Prospecting,46,0.52,2025-04-24,2025-08-13
+OPP-1469,D. Johnson,International,22749.49,Qualified,6,0.54,2025-01-16,2025-07-11
+OPP-1470,B. Chen,West,101160.92,Negotiation,34,0.38,2025-03-24,2025-09-17
+OPP-1471,E. Rivera,International,122585.01,Proposal,1,0.44,2025-06-28,2025-09-18
+OPP-1472,B. Chen,International,152005.03,Qualified,10,0.62,2025-03-13,2025-09-19
+OPP-1473,E. Rivera,International,76457.33,Qualified,21,0.74,2025-05-04,2025-09-28
+OPP-1474,C. Patel,West,175270.56,Proposal,5,0.47,2025-04-23,2025-07-02
+OPP-1475,E. Rivera,West,215729.99,Negotiation,2,0.41,2025-01-12,2025-08-19
+OPP-1476,D. Johnson,International,196063.49,Closed Won,22,0.5,2025-05-06,2025-07-12
+OPP-1477,A. Smith,Southeast,14706.61,Closed Lost,48,0.62,2025-02-22,2025-09-28
+OPP-1478,E. Rivera,Midwest,122724.2,Negotiation,57,0.21,2025-03-16,2025-07-23
+OPP-1479,E. Rivera,Midwest,30707.89,Qualified,2,0.05,2025-05-13,2025-07-18
+OPP-1480,A. Smith,Midwest,64301.03,Negotiation,10,0.39,2025-01-27,2025-08-31
+OPP-1481,D. Johnson,West,246732.34,Qualified,34,0.26,2025-05-20,2025-08-31
+OPP-1482,B. Chen,West,39911.41,Qualified,16,0.4,2025-05-25,2025-08-07
+OPP-1483,E. Rivera,Southeast,127227.6,Closed Won,48,0.47,2025-05-14,2025-09-05
+OPP-1484,A. Smith,Midwest,156448.15,Prospecting,51,0.41,2025-04-07,2025-08-07
+OPP-1485,C. Patel,Midwest,177103.92,Closed Lost,39,0.79,2025-01-05,2025-09-05
+OPP-1486,A. Smith,International,142113.93,Proposal,22,0.57,2025-02-26,2025-08-30
+OPP-1487,C. Patel,West,7393.86,Proposal,12,0.56,2025-06-05,2025-07-01
+OPP-1488,D. Johnson,Midwest,84983.02,Negotiation,24,0.62,2025-03-19,2025-08-14
+OPP-1489,B. Chen,Southeast,131839.35,Closed Won,47,0.27,2025-03-10,2025-07-28
+OPP-1490,A. Smith,Southeast,26527.29,Proposal,40,0.71,2025-04-28,2025-07-21
+OPP-1491,E. Rivera,Midwest,90903.6,Proposal,38,0.48,2025-04-30,2025-07-13
+OPP-1492,D. Johnson,West,13134.76,Prospecting,59,0.63,2025-02-28,2025-07-27
+OPP-1493,A. Smith,Southeast,24251.73,Proposal,10,0.29,2025-02-02,2025-07-07
+OPP-1494,E. Rivera,International,102246.2,Prospecting,35,0.19,2025-03-03,2025-07-22
+OPP-1495,A. Smith,Southeast,37515.36,Negotiation,51,0.66,2025-02-19,2025-09-12
+OPP-1496,C. Patel,Northeast,144047.51,Proposal,49,0.58,2025-04-22,2025-08-22
+OPP-1497,A. Smith,Northeast,173918.92,Negotiation,32,0.32,2025-01-19,2025-09-17
+OPP-1498,A. Smith,West,201143.74,Prospecting,7,0.33,2025-05-03,2025-09-17
+OPP-1499,A. Smith,Midwest,54036.81,Prospecting,21,0.73,2025-02-16,2025-07-04
